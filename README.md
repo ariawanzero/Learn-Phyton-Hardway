@@ -1,2 +1,2 @@
-# Learn-Phyton-Hardway
+# Learn_Phyton
 Study about language python from http://learnpythonthehardway.org
